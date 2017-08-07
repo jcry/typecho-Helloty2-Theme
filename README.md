@@ -1,5 +1,9 @@
 # typecho-Helloty2-Theme
-Helloty2主题发布说明
+
+本主题原发布地 http://www.zzfly.net/typecho-theme-helloty2/
+
+### Helloty2主题发布说明
+
 – 响应式设计，支持多种屏幕尺寸自动调整
 – 支持 phpstate + Ajax，全站无刷新加载内页
 – 相比上一个版本，恢复首页边栏，新增搜索小工具，新增底部标签，头部版式变化较大
