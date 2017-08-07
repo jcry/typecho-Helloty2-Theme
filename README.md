@@ -9,4 +9,4 @@ Helloty2主题发布说明
 关于 PHPState + Ajax 全站无刷新
 – 已知bug：开启后评论必须刷新当前页方可进行，这也是我默认关闭这个功能的原因
 – 编辑 footer.php ，取消23行的注释即可，如图。
-<img src="https://ws1.sinaimg.cn/large/006NokVPgy1fiblihviu1j30vl055js4.jpg"/>
+<img src="https://ooo.0o0.ooo/2017/08/07/59888d51b889f.png" alt="pjax.png" title="pjax.png" />
