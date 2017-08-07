@@ -4,8 +4,6 @@
 
 <img src="https://ooo.0o0.ooo/2017/08/08/59889376c5b65.png" alt="index-935x1024.png" title="index-935x1024.png" />
 
-<img src="https://ooo.0o0.ooo/2017/08/08/59889375ca173.png" alt="footer2.png" title="footer2.png" />
-
 ### Helloty2主题发布说明
 
 – 响应式设计，支持多种屏幕尺寸自动调整
