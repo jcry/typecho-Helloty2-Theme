@@ -1,6 +1,8 @@
 # typecho-Helloty2-Theme
 
-本主题原发布地 http://www.zzfly.net/typecho-theme-helloty2/
+本主题原发布地：  http://www.zzfly.net/typecho-theme-helloty2/
+
+演示： www.66a.biz
 
 <img src="https://ooo.0o0.ooo/2017/08/08/59889376c5b65.png" alt="index-935x1024.png" title="index-935x1024.png" />
 
